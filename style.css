@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    border-width: 30px;
+    border-color: chocolate;
+    border-style: solid;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    border-color: black;
+    border-radius: 10px;
+    border-style: groove;
+}
